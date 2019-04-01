@@ -27,8 +27,10 @@ jobs:
 
 # AWS Authentication
 
-We need to setup **AWS** creditential in **CircleCI** as to add environment variable inside it.
+We need to setup **AWS** creditential in **CircleCI** as to add such environment variable inside it.
 
 `AWS_ACCESS_KEY_ID`
+
 `AWS_DEFAULT_REGION`
+
 `AWS_SECRET_ACCESS_KEY`
